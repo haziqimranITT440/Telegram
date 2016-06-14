@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "{",
+  "main": "{",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.23.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "{"
+  },
+  "repository": {
+    "type": "git",
+    "url": "{"
+  },
+  "keywords": [
+    "\"name\":",
+    "\"myapp\""
+  ],
+  "author": "\"version\": \"0.0.1\",",
+  "license": "ISC"
+}
